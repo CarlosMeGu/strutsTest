@@ -8,7 +8,6 @@ import java.util.Hashtable;
 import java.util.Map;
 
 public class AltasAction extends ActionSupport implements SessionAware {
-	
 	private Person persona;
 	private Map<String, Object> userSession;
 	
